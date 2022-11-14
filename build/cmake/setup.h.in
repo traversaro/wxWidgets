@@ -177,7 +177,7 @@
 
 #cmakedefine01 wxUSE_STD_CONTAINERS
 
-#define wxUSE_STD_IOSTREAM  wxUSE_STD_DEFAULT
+#define wxUSE_STD_IOSTREAM  0
 
 #define wxUSE_STD_STRING  wxUSE_STD_DEFAULT
 
